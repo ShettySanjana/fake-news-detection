@@ -11,7 +11,7 @@ This project detects fake news using machine learning models and provides an int
 
 ## Usage
 
-1. Clone repo
-2. Run training:
+1. Clone the repository:
    ```bash
-   python train.py
+   git clone https://github.com/ShettySanjana/fake-news-detection.git
+   cd fake-news-detection
