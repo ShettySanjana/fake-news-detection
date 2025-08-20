@@ -7,7 +7,7 @@ Users can either paste text or upload a file (TXT, CSV) for analysis.
 
 ## 🚀 Demo
 
-![Demo Screenshot](creenshot.png)  
+![Demo Screenshot](Screenshot.png)  
 
 
 ---
