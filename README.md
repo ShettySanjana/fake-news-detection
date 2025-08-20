@@ -1,17 +1,31 @@
-# 📰 Fake News Detection using ML
+# 📰 Fake News Detection Site
 
-This project detects fake news using machine learning models and provides an interactive interface via Streamlit.
+A simple web app built with **Streamlit** to detect fake news articles using NLP and machine learning models.  
+Users can either paste text or upload a file (TXT, CSV) for analysis.
 
-## Features
+---
 
-- Supports Logistic Regression, SVM, Naive Bayes, Random Forest
-- Customizable preprocessing using stopwords
-- Trained on `Fake.csv` and `True.csv` merged into `news.csv`
-- Clean UI with Streamlit
+## 🚀 Demo
 
-## Usage
+![Demo Screenshot](screenshot.png)  
+*(Replace with `demo.gif` if you prefer an animated demo)*
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ShettySanjana/fake-news-detection.git
-   cd fake-news-detection
+---
+
+## ⚡ Quickstart
+
+```bash
+# 1. Create virtual environment
+python -m venv venv
+
+# 2. Activate environment
+# On Linux/Mac
+source venv/bin/activate
+# On Windows
+venv\Scripts\activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Run the app
+streamlit run app.py
