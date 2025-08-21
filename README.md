@@ -38,15 +38,14 @@ Fake.csv → Contains fake news articles
 
 True.csv → Contains real news articles
 
-🤝 Contributing
+## 🤝 Contributing
 
-We welcome contributions! Please see CONTRIBUTING.md
- for details.
+We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
-📜 License
+## 📜 License
 
-This project is licensed under the MIT License. See the LICENSE
- file for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
 
 🛠️ Tech Stack
 
