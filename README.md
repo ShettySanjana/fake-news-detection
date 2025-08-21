@@ -40,11 +40,11 @@ True.csv → Contains real news articles
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+We welcome contributions! Please see CONTRIBUTING.md for details.
 
 ## 📜 License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See LICENSE for details.
 
 
 🛠️ Tech Stack
