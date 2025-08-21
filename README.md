@@ -29,3 +29,32 @@ pip install -r requirements.txt
 
 # 4. Run the app
 streamlit run app.py
+
+📂 Dataset
+
+This project uses the Fake and Real News Dataset
+:
+
+Fake.csv → Contains fake news articles
+
+True.csv → Contains real news articles
+
+🤝 Contributing
+
+We welcome contributions! Please see CONTRIBUTING.md
+ for details.
+
+📜 License
+
+This project is licensed under the MIT License. See the LICENSE
+ file for details.
+
+🛠️ Tech Stack
+
+Python 3.13
+
+Streamlit
+
+Scikit-learn / NLP
+
+Pandas, NumPy
